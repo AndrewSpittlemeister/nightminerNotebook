@@ -1,5 +1,6 @@
 # nightminer Notebook
 - Jupyter Notebook port of ricmoo's nightminer program.
+- Requires a notebook running a Python 2 Kernal.
 - Profitable? No.
 - Please DO NOT overload some poor company's server who offer online notebooks. They are doing God's work.
 - Please DO have fun and learn more about GRLC and other cryptocurrencies with it!
